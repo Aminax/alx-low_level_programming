@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints integers
- * Description: all int are under 10
+ * main - prints int
+ * Description: n.o are under 10 without using any char vars
  * Return: 0
  */
-int mian (void)
+int main(void)
 {
 int x = 48;
 
