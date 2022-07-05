@@ -1,0 +1,22 @@
+#include <main.h>
+
+/*
+ * print_alphabet_x10 - prints the alphabet 10 times
+ * description:printing
+ */
+void print_alphabet_x10(void)
+{
+int count;
+int x;
+
+count=0
+
+while (count < 0)
+{
+	for (x = 97; x <= 122; x++)
+		putchar(x);
+
+        putchar('\n');
+        count++;	
+}
+}
