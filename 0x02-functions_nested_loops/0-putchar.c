@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /*
  * main -prints astring
@@ -7,7 +7,14 @@
  */
 int main(void)
 {
-putchar('-putchar\n');
+putchar('-');
+putchar('p');
+putchar('u');
+putchar('t');
+putchar('c');
+putchar('h');
+putchar('a');
+putchar('r');
 
 return (0);
 }
