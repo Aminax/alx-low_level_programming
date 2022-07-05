@@ -1,16 +1,15 @@
-#include <stdio.h>
+#include "main.h"
 
-/*
- * main -prints the alphapet
- * description:lowercase alphapet
- * return:0
+/**
+ * print_alphabet - prints the alphabet
  */
 void print_alphabet(void)
-
 {
-int y;
-for(y='a';y<='z';y++)
-putchar(y);
+int x;
 
-return (0);
+for (x =  97; x <= 122; x++)
+	_putchar(x);
+
+_putchar('\n');
+
 }
