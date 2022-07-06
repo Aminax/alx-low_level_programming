@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * _abs- returns 1 if n is lowercase, 0 otherwise
  * @n: integer to be checked
