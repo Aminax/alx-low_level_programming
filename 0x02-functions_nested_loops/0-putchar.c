@@ -5,7 +5,8 @@
  * description: the string is putchar
  * return: 0
  */
-int main(void),
+int main(void)
+
 {
 	_putchar('-');
 	_putchar('p');
