@@ -2,8 +2,8 @@
 
 /**
  * main - prints astring
- * description: the string is "_putchar"
- *  return: 0
+ * Description: the string is "_putchar"
+ * Return: 0
  */
 int main(void)
 {
