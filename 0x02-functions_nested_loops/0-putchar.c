@@ -3,8 +3,7 @@
 /**
  * main - prints astring
  * description: the string is "_putchar"
- * 
- * return: 0
+ *  return: 0
  */
 int main(void)
 {
