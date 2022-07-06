@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _abs - returns absolute of n
  * @n: integer to be checked
