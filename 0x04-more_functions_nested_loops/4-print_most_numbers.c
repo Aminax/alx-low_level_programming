@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers -> this prints most nimbers
- * followed by a new line 
+ * followed by a new line
  */
 void print_most_numbers(void)
 {
