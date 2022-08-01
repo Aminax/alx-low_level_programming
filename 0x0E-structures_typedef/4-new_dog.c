@@ -1,5 +1,4 @@
 #include "dog.h"
-
 /**
  * _strdup - returns a pointer to space in memory containing copy of string.
  * @s: pointer to the string.
@@ -33,7 +32,6 @@ char *_strdup(char *s)
 
 
 
-
 /**
  * new_dog - create an instance of struct dog.
  * @name: 1st argument.
@@ -44,6 +42,7 @@ char *_strdup(char *s)
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *newdog;
+
 	newdog = malloc(sizeof(struct dog));
 
 	if (newdog == NULL)
